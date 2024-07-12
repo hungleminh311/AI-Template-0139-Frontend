@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join Our Friendly Gambling Community and Win Big Together!",
+        "title": "Step Into a World of Thrills"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Step Into a World of Thrills",
+  "subtitle": "Join Our Friendly Gambling Community and Win Big Together!"
+}
